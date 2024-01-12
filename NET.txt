@@ -1,0 +1,14 @@
+sol .NET
+https://gitlab.vinci.be/olivier.choquet/net_solutions
+
+chatGPT @student
+#___123
+
+API web asp .net core
+
+reset db
+sqllocaldb stop mssqllocaldb
+sqllocaldb delete mssqllocaldb
+sqllocaldb start "MSSQLLocalDB"
+
+https://github.com/lvanbel/.NET
